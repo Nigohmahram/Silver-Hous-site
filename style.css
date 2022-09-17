@@ -1,0 +1,131 @@
+*{
+    padding: 0;
+    margin: 0;
+    text-decoration: none;
+    list-style: none;
+}
+header .container{
+    max-width: 1110px;
+    width: 100%;
+    margin: auto;
+}
+.container .block .box{
+justify-content: center;
+display: flex;
+
+}
+.container .block .box>img{
+    height: 150px;
+    width: 120px;
+    padding: 50px 0 60px 0;
+}
+.container .block ul{
+    display: flex;
+    justify-content: center;
+}
+.container .block ul li{
+    text-justify: auto;
+    padding-right: 40px;
+}
+.container .block ul li a{
+    color: #bab9b9;
+    font-size: 17px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 400;
+    transition: 0.5s ease;
+    
+}
+.container .block ul li a:hover{
+    color:#4581b7;
+    content: '';
+    display: inline-block;
+    width: 100%;
+    height: 1px;
+    background: linear-gradient( to bottom, #4581b7,#4581b7,#4581b7);
+    
+    
+}
+.container .block .box1{
+    margin: 60px 0  30px 0;
+}
+main .container{
+    max-width: 1110px;
+    width: 100%;
+    margin: auto;
+}
+main .block_1{
+    display: flex;
+    
+}
+main .block_1 h3{
+    color: #4581b7;
+    font-size: 18px;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+}
+main .block_1 p{
+    color: #7f7f7f;
+    font-size: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 300;
+}
+
+main .block_1 .main_text1 {
+    margin-right: 30px;
+    background-color: #f0f0f0;
+    
+    
+}
+main .block_1 .main_text1 h3{
+    padding: 50px 200px 30px 50px;
+}
+main .block_1 .main_text1 p{
+    padding: 0 150px 70px 50px;
+    line-height: 25px;
+}
+main .block_1 .main_text2 {
+    background-color: #f0f0f0;
+   
+    
+}
+main .block_1 .main_text2 h3{
+    padding: 50px 100px 0 100px;
+    padding-top: 50px;
+    padding-right: 100px;
+    padding-left: 100px;
+   
+
+    
+}
+main .block_1 .main_text2 p{
+    padding: 20px 30px;
+    line-height: 25px;
+}
+footer .container{
+    max-width: 1110px;
+    width: 100%;
+    margin: auto;
+}
+footer .ft_1{
+    display: flex;
+    justify-content: space-between;
+    background-color: #f0f0f0;
+    margin-top: 30px;
+}
+footer .ft_1 .ft_2 img{
+    padding: 15px 0 15px 50px;
+}
+footer .ft_1 .ft_3 p{
+    padding: 40px 40px 0 0;
+    color: #808080;
+    font-size: 16px;
+    font-weight: 300;
+    font-family: Arial, Helvetica, sans-serif;
+}
+footer .ft_1 .ft_3 .tel{
+    font-size: 25px;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+

@@ -1,0 +1,80 @@
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;                                                                          ;;
+;;			MSI BIOS Release Notes     	                    ;;
+;;					                                    ;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;           
+                     
+Model    :   MS-17K3                       
+MKT Name :   GE76 Raider 11UE/GE76 Raider 11UG/GE76 Raider 11UH
+
+;****************************************************************************;
+		
+New BIOS     : 	E17K3IMS.11D
+ROM CheckSum :  BA651D58
+Release Date : 2022/01/25
+;--------------------------- Description ------------------------------------;
+
+1.Improve system stability.
+2.Support Wi-Fi 6E module.
+
+;****************************************************************************;
+		
+New BIOS     : 	E17K3IMS.11C
+ROM CheckSum :  BA664E5F
+Release Date : 2022/01/04
+;--------------------------- Description ------------------------------------;
+
+Improve system stability.
+
+;****************************************************************************;
+		
+New BIOS     : 	E17K3IMS.11B
+ROM CheckSum :  BA68C43F
+Release Date : 2021/10/01
+;--------------------------- Description ------------------------------------;
+
+Support Wi-Fi 6GHz.
+
+;****************************************************************************;
+		
+New BIOS     : 	E17K3IMS.119
+ROM CheckSum :  BA69A87D
+Release Date : 2021/08/16
+;--------------------------- Description ------------------------------------;
+
+1.Update WLAN card table.
+2.Add Mac address pass through function.
+3.Improve the battery stability.
+4.Improve system stability. 
+
+;****************************************************************************;
+		
+New BIOS     : 	E17K3IMS.117
+ROM CheckSum :  BA70A41D
+Release Date : 2021/07/27
+
+;--------------------------- Description ------------------------------------;
+
+1.The external display would sometimes no display when connecting the laptop and monitor via Thunderbolt 4 docking station.
+2.Add panel support list for overdrive function. 
+
+
+;****************************************************************************;
+		
+New BIOS     : 	E17K3IMS.115
+ROM CheckSum :  BA6A7069
+Release Date : 2021/06/18
+
+;--------------------------- Description ------------------------------------;
+
+1. Modify the Dynamic Boost 2.0 related settings.
+
+;****************************************************************************;
+		
+New BIOS     : 	E17K3IMS.113	
+ROM CheckSum :  BA70DF29
+Release Date : 2021/05/11
+
+;--------------------------- Description ------------------------------------;
+
+First Release. 
